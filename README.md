@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img.freepik.com/vector-premium/joven-dibujos-animados-gafas-ilustracion-persona-vectorial-lindo-retrato-masculino_641602-526.jpg"  />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="Coding GIF"  />
 
 ###
 
@@ -45,11 +45,5 @@
 ###
 
 <br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="Coding GIF"  />
-</div>
 
 ###
