@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-<img src="https://img.freepik.com/vector-premium/joven-dibujos-animados-gafas-ilustracion-persona-vectorial-lindo-retrato-masculino_641602-526.jpg" alt="Snake animation" />
-
 ###
