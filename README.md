@@ -33,7 +33,7 @@
 
 <div align="left">
   <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://www.instagram.com/roberto._barrera/" height="35" alt="instagram logo" />
   </a>
   <a href="https://twitch.tv/yourprofile">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
