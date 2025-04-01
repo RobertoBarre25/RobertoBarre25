@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Roberto Barrera</h1>
-<h3 align="center">🚀 Desarrollador Full Stack apasionado por la tecnología</h3>
+<h3 align="center">🚀 Desarrollador en aprendizaje apasionado por la tecnología</h3>
 
 ###
 
@@ -20,16 +20,13 @@
 <h2 align="left">🛠️ Tecnologías y herramientas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,vscode" alt="tech stack icons" />
 </div>
 
 ###
 
 <h2 align="left">🔥 Mis proyectos destacados</h2>
 
-- [Proyecto 1](https://github.com/RobertoBarre25/) - Descripción breve  
-- [Proyecto 2](https://github.com/RobertoBarre25/) - Descripción breve  
-- [Proyecto 3](https://github.com/RobertoBarre25/) - Descripción breve  
 
 ###
 
