@@ -20,7 +20,7 @@
 <h2 align="left">🛠️ Tecnologías y herramientas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql" alt="tech stack icons" />
 </div>
 
 ###
