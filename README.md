@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, i am Roberto Barrera</h1>
 <h3 align="center">🚀 Software developer in progress</h3>
 
-###
-
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" alt="Coding GIF" />
 </div>
