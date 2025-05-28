@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" alt="Coding Animation" />
 </div>
 
+
 ---
 
 ### 📈 GitHub Stats
