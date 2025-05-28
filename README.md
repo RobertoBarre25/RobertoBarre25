@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, soy Roberto Barrera</h1>
-<h3 align="center">🚀 Desarrollador en aprendizaje apasionado por la tecnología</h3>
+<h1 align="center">👋 Hi, i am Roberto Barrera</h1>
+<h3 align="center">🚀 Software developer in progress</h3>
 
 ###
 
