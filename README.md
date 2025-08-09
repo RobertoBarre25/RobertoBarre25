@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Developer in Progress</h3>
 <h3 align="center">👾 Im From Mexico</h3>
 <h3 align="center">💻 I love web development</h3>
-<h3 align="center">📬 I Contact me: roberto.barrera2504@gmail.com</h3>
+<h3 align="center">📬 Contact me: roberto.barrera2504@gmail.com</h3>
 
 
 <div align="center">
