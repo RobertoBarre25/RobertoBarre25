@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, I'm Roberto Barrera</h1>
 <h3 align="center">🚀 Software Developer in Progress</h3>
+<h3 align="center">👾 Im From Mexico</h3>
+<h3 align="center">💻 I love web development</h3>
+<h3 align="center">📬 I Contact me: roberto.barrera2504@gmail.com</h3>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" alt="Coding Animation" />
