@@ -48,28 +48,7 @@
   POS system enhancements and backend optimizations.
 </td>
 </tr>
-<tr>
-<td align="center" width="300px">
-  <a href="https://github.com/RobertoBarre25/Microservice-Spring" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertoBarre25&repo=Microservice-Spring&theme=radical" />
-  </a>
-  <br>
-  <b>Microservice-Spring</b>  
-  <img src="https://img.shields.io/badge/Role-Owner-green?style=flat-square" />
-  <br>
-  Spring Boot microservice for managing status data.
-</td>
-<td align="center" width="300px">
-  <a href="https://github.com/RobertoBarre25/React-Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertoBarre25&repo=React-Portfolio&theme=radical" />
-  </a>
-  <br>
-  <b>React Portfolio</b>  
-  <img src="https://img.shields.io/badge/Role-Owner-green?style=flat-square" />
-  <br>
-  Personal portfolio built with React and animations.
-</td>
-</tr>
+
 </table>
 
 ---
